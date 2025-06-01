@@ -1,0 +1,8 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @e-tox
+/src/backend/database.py      @e-tox
+/src/backend/routers/auth.py  @e-tox
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @e-tox
+
